@@ -1,0 +1,33 @@
+{
+  "name": "BetterLMS",
+  "version": "0.1",
+  "permissions": [
+    "downloads",
+    "storage",
+    "unlimitedStorage",
+    "https://lms.lums.edu.pk/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://lms.lums.edu.pk/portal/site/*",
+        "http://lms.lums.edu.pk/portal/site/*"
+      ],
+      "exclude_matches": [
+        "https://lms.lums.edu.pk/portal/site/~*",
+        "http://lms.lums.edu.pk/portal/site/~*"
+      ],
+      "js": [
+        "src/lib/jquery-3.5.1.min.js",
+        "src/apps/site_downloader/content/content.js"
+      ]
+    }
+  ],
+  "background": {
+    "scripts": [
+      "src/lib/jquery-3.5.1.min.js",
+      "src/apps/site_downloader/background/background.js"
+    ]
+  },
+  "manifest_version": 2
+}
