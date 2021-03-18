@@ -12,6 +12,11 @@ get = (url) => {
     })
 }
 
+clean_name = (name) => {
+
+    return name.replace(/[/\\?%*:|"<>]/g, '%'); // Strip any special charactere
+}
+
 function download_from_url(url, filename) {
     return new Promise((resolve) => {
 
@@ -42,7 +47,7 @@ function download_from_site_tree(site_tree, path) {
             if(item.type == 'file') {
                 await sleep(1000)
                 console.log('DOWNLOADING' + item.name)
-                await download_from_url(item.href, path + item.name)
+                await download_from_url(item.href, path + clean_name(item.name))
                 console.log('DOWNLOADED!')
             }
         }
@@ -50,7 +55,7 @@ function download_from_site_tree(site_tree, path) {
         for (var item of site_tree) {
             if(item.type == 'folder') {
                 await sleep(1000)
-                await download_from_site_tree(item.children, path + item.name + '/')
+                await download_from_site_tree(item.children, path + clean_name(item.name) + '/')
             }
         }
 
