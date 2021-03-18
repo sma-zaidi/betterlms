@@ -3,8 +3,6 @@
   "version": "0.1",
   "permissions": [
     "downloads",
-    "storage",
-    "unlimitedStorage",
     "https://lms.lums.edu.pk/*"
   ],
   "content_scripts": [
