@@ -14,7 +14,7 @@ get = (url) => {
 
 clean_name = (name) => {
 
-    return name.replace(/[/\\?%*:|"<>]/g, '%'); // Strip any special charactere
+   return name.replace(/[^a-z0-9.\-_]/gi, '_'); // Strip any special charactere
 }
 
 function download_from_url(url, filename) {
