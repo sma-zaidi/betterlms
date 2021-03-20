@@ -12,11 +12,17 @@ Folder should now contain a file called manifest.json
 <img src="https://i.imgur.com/QYCE1SM.jpg" width="1000" height="300" />
 
 Chrome > manage extensions > enable developer mode > load unpacked > select folder containing manifest.json
-![alt text](https://i.imgur.com/wE3FWR5.jpg)
-![alt text](https://i.imgur.com/1O5YhON.jpg)
-![alt text](https://i.imgur.com/FOQmdA1.jpg)
-![alt text](https://i.imgur.com/QY1c82X.jpg)
-![alt text](https://i.imgur.com/DwDMzZ5.jpg)
+
+<img src="https://i.imgur.com/wE3FWR5.jpg" width="1000" height="300" />
+
+<img src="https://i.imgur.com/1O5YhON.jpg" width="1000" height="300" />
+
+<img src="https://i.imgur.com/FOQmdA1.jpg" width="1000" height="300" />
+
+<img src="https://i.imgur.com/QY1c82X.jpg" width="1000" height="300" />
+
+<img src="https://i.imgur.com/DwDMzZ5.jpg" width="1000" height="300" />
+
 
 
 ## Usage
