@@ -5,6 +5,8 @@ BetterLMS is an extension for Google Chrome that lets you download entire sites 
 ## Installation
 Download and extract source code to a folder
 
+![alt text](https://imgur.com/m59UWyE)
+
 Folder should now contain a file called manifest.json
 
 Chrome > manage extensions > enable developer mode > load unpacked > select folder containing manifest.json
