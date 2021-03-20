@@ -3,19 +3,17 @@
 BetterLMS is an extension for Google Chrome that lets you download entire sites off of the LUMS LMS.
 
 ## Installation
-* Download and extract source code to a folder
+* Download and extract the source code.
 
   <img src="https://i.imgur.com/m59UWyE.jpeg" width="471" height="189" />
 
-* Folder should now contain a file called manifest.json
+* The extracted folder should now contain a file called manifest.json.
 
-  <img src="https://i.imgur.com/QYCE1SM.jpg" width="471" height="90" />
-
-* Go to Chrome Browser. Click on the 'kebab menu icon' (the three vertical dots towards the top right), and click on 'Extensions' under 'More Tools'.
+* Open Google Chrome. Open the menu (three vertical dots towards the top right), and click on 'extensions' under 'more tools.'
 
   <img src="https://i.imgur.com/wE3FWR5.jpg" width="471" height="400" />
 
-* In 'Extensions' tab, enable "Developer Mode".
+* From the extensions tab, enable developer mode.
 
   <img src="https://i.imgur.com/1O5YhON.jpg" width="471" height="300" />
 
@@ -26,6 +24,8 @@ BetterLMS is an extension for Google Chrome that lets you download entire sites 
 * Select the unzipped folder
 
   <img src="https://i.imgur.com/QY1c82X.jpg" width="471" height="500" />
+  
+* All done!
 
 
 ## Usage
