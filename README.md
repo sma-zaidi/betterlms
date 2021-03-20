@@ -8,8 +8,15 @@ Download and extract source code to a folder
 ![alt text](https://i.imgur.com/m59UWyE.jpeg)
 
 Folder should now contain a file called manifest.json
+![alt text](https://i.imgur.com/QYCE1SM.jpg)
 
 Chrome > manage extensions > enable developer mode > load unpacked > select folder containing manifest.json
+![alt text](https://i.imgur.com/wE3FWR5.jpg)
+![alt text](https://i.imgur.com/1O5YhON.jpg)
+![alt text](https://i.imgur.com/FOQmdA1.jpg)
+![alt text](https://i.imgur.com/QY1c82X.jpg)
+![alt text](https://i.imgur.com/DwDMzZ5.jpg)
+
 
 ## Usage
 * Visit the resources tab for the site you want to download.
