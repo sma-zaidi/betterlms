@@ -11,7 +11,10 @@ Chrome > manage extensions > enable developer mode > load unpacked > select fold
 
 ## Usage
 * Visit the resources tab for the site you want to download.
-* Locate the 'download site' button just above the site content.
+* Locate the 'download site' button (pictured below) just above the site content.
+
+![alt text](https://i.imgur.com/08OEx46.png)
+
 * Click on the button, and select OK on the confirmation box that pops up to start downloading the site.
 * You can now close the tab or navigate away and the downloads will continue in the background.
 
