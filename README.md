@@ -11,7 +11,7 @@ BetterLMS is an extension for Google Chrome that lets you download entire sites 
 
 <img src="https://i.imgur.com/QYCE1SM.jpg" width="1000" height="300" />
 
-3. Click on the 'kebab menu icon' (the three vertical dots towards the top right), and click on 'Extensions' under 'More Tools'.
+3. Go to Chrome Browser. Click on the 'kebab menu icon' (the three vertical dots towards the top right), and click on 'Extensions' under 'More Tools'.
 
 <img src="https://i.imgur.com/wE3FWR5.jpg" width="1000" height="500" />
 
