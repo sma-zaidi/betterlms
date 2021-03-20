@@ -19,9 +19,11 @@ BetterLMS is an extension for Google Chrome that lets you download entire sites 
 
   <img src="https://i.imgur.com/1O5YhON.jpg" width="471" height="300" />
 
-* Now click on the "Load Unpacked" option and select the unzipped folder.
+* Click on 'load unpacked.'
 
   <img src="https://i.imgur.com/FOQmdA1.jpg" width="471" height="300" />
+
+* Select the unzipped folder
 
   <img src="https://i.imgur.com/QY1c82X.jpg" width="471" height="500" />
 
