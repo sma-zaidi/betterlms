@@ -3,32 +3,27 @@
 BetterLMS is an extension for Google Chrome that lets you download entire sites off of the LUMS LMS.
 
 ## Installation
-1. Download and extract source code to a folder
+*  Download and extract source code to a folder
 
-<img src="https://i.imgur.com/m59UWyE.jpeg" width="1000" height="500" />
+  <img src="https://i.imgur.com/m59UWyE.jpeg" width="471" height="189" />
 
-2. Folder should now contain a file called manifest.json
+* Folder should now contain a file called manifest.json
 
-<img src="https://i.imgur.com/QYCE1SM.jpg" width="1000" height="300" />
+  <img src="https://i.imgur.com/QYCE1SM.jpg" width="471" height="90" />
 
-3. Go to Chrome Browser. Click on the 'kebab menu icon' (the three vertical dots towards the top right), and click on 'Extensions' under 'More Tools'.
+* Go to Chrome Browser. Click on the 'kebab menu icon' (the three vertical dots towards the top right), and click on 'Extensions' under 'More Tools'.
 
-<img src="https://i.imgur.com/wE3FWR5.jpg" width="1000" height="500" />
+  <img src="https://i.imgur.com/wE3FWR5.jpg" width="471" height="113" />
 
-4. In 'Extensions' tab, enable "Developer Mode".
+* In 'Extensions' tab, enable "Developer Mode".
 
-<img src="https://i.imgur.com/1O5YhON.jpg" width="1000" height="300" />
+  <img src="https://i.imgur.com/1O5YhON.jpg" width="471" height="300" />
 
-5. Now click on the "Load Unpacked" option and select the unzipped folder.
+* Now click on the "Load Unpacked" option and select the unzipped folder.
 
-<img src="https://i.imgur.com/FOQmdA1.jpg" width="1000" height="300" />
+  <img src="https://i.imgur.com/FOQmdA1.jpg" width="471" height="300" />
 
-<img src="https://i.imgur.com/QY1c82X.jpg" width="1000" height="500" />
-
-6. Nice! You have installed the BetterLMS extension. 
-
-<img src="https://i.imgur.com/DwDMzZ5.jpg" width="1000" height="500" />
-
+  <img src="https://i.imgur.com/QY1c82X.jpg" width="471" height="500" />
 
 
 ## Usage
