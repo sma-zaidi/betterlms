@@ -13,9 +13,9 @@ Folder should now contain a file called manifest.json
 
 Chrome > manage extensions > enable developer mode > load unpacked > select folder containing manifest.json
 
-<img src="https://i.imgur.com/wE3FWR5.jpg" width="1000" height="300" />
+<img src="https://i.imgur.com/wE3FWR5.jpg" width="1000" height="500" />
 
-<img src="https://i.imgur.com/1O5YhON.jpg" width="1000" height="300" />
+<img src="https://i.imgur.com/1O5YhON.jpg" width="500" height="300" />
 
 <img src="https://i.imgur.com/FOQmdA1.jpg" width="1000" height="300" />
 
