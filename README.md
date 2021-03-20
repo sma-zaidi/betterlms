@@ -17,5 +17,5 @@ Chrome > manage extensions > enable developer mode > load unpacked > select fold
 
 ## Notes
 * Please allow a 5-10 seconds for the downloads to start. May take longer depending on the size of the site.
-* Currently the only way to cancel the downloads is to close Chrome.
+* Currently the only way to cancel the downloading process before completion is to restart Chrome.
 * There's no way to skip folders atm. If you want to skip a file, cancel the file's download manually and it'll move on to the next one.
